@@ -13,7 +13,7 @@ The LiteLLM Security WG is responsible for coordinating and improving security a
 
 **Do not report security vulnerabilities via public GitHub issues.**
 
-Please report security issues to: **security@berriAI.com**
+Please report security issues to: **security@berri.aim**
 
 You can also submit via [GitHub Security Advisories](https://github.com/BerriAI/litellm/security/advisories/new).
 
