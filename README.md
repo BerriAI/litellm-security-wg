@@ -37,6 +37,10 @@ P0: Prevent a 2nd attack on LiteLLM
 |---|---|
 | [@ishaan-berri](https://github.com/ishaan-berri) | Ishaan |
 | [@krrish-berri-2](https://github.com/krrish-berri-2) | Krrish |
+| [@DanielRuf](https://github.com/DanielRuf) | Daniel |
+| [@mlieberman85](https://github.com/mlieberman85) | Michael |
+| [@mihaimaruseac](https://github.com/mihaimaruseac) | Mihai |
+
 
 ## Code of Conduct
 
