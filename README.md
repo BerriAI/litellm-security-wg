@@ -35,6 +35,7 @@ We will acknowledge your report within 48 hours and aim to provide a fix within 
 | [@krrish-berri-2](https://github.com/krrish-berri-2) | Krrish |
 | [@DanielRuf](https://github.com/DanielRuf) | Daniel |
 | [@mlieberman85](https://github.com/mlieberman85) | Michael |
+| [@mihaimaruseac](https://github.com/mihaimaruseac) | Mihai |
 
 
 ## Code of Conduct
