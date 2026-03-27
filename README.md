@@ -19,6 +19,10 @@ You can also submit via [GitHub Security Advisories](https://github.com/BerriAI/
 
 We will acknowledge your report within 48 hours and aim to provide a fix within 90 days.
 
+## Current Goals
+P0: Prevent a 2nd attack on LiteLLM
+
+
 ## Current Initiatives
 
 | Initiative | Status |
