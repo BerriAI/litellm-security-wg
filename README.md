@@ -33,6 +33,9 @@ We will acknowledge your report within 48 hours and aim to provide a fix within 
 |---|---|
 | [@ishaan-berri](https://github.com/ishaan-berri) | Ishaan |
 | [@krrish-berri-2](https://github.com/krrish-berri-2) | Krrish |
+| [@DanielRuf](https://github.com/DanielRuf) | Daniel |
+| [@mlieberman85](https://github.com/mlieberman85) | Michael |
+
 
 ## Code of Conduct
 
