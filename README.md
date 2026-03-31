@@ -40,6 +40,7 @@ P0: Prevent a 2nd attack on LiteLLM
 | [@DanielRuf](https://github.com/DanielRuf) | Daniel |
 | [@mlieberman85](https://github.com/mlieberman85) | Michael |
 | [@mihaimaruseac](https://github.com/mihaimaruseac) | Mihai |
+| [@SerJaimeLannister](https://github.com/SerJaimeLannister) | |
 
 
 ## Code of Conduct
