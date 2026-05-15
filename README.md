@@ -27,7 +27,7 @@ P0: Prevent a 2nd attack on LiteLLM
 
 | Initiative | Status |
 |---|---|
-| Supply chain security hardening | In Progress |
+| Supply chain security hardening | Done |
 | Security disclosure process | In Progress |
 | Dependency audit | TODO |
 
